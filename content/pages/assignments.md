@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on reading assignments, a written paper,
+  and oral presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
